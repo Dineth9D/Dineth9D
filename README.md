@@ -1,5 +1,8 @@
 <p align="center">
 <a href="https://github.com/Dineth9D"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&multiline=true&width=450&height=80&lines=Dineth+Jayasinghe;Computer+Science+undergraduate;AI+%7C+Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" /></a>
+<a>
+
+</a>
 
 <br/>
 
