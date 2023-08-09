@@ -36,7 +36,7 @@
 
 </p>
 
-- 📖 Finishing Bachelor in Computer Science at [Eastern University - Trincomalee Campus](http://fas.tc.esn.ac.lk/).
+- 📖 Machine Learning Enginner.
 
 - 🎓 Conducting projects on **AI** and **Machine Learning**.
 
