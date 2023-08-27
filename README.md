@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/Dineth9D"><img src="https://readme-typing-svg.demolab.com?font=Product+Sans&weight=500&duration=1000&pause=500&multiline=true&width=435&lines=Dineth+Jayasinghe;IBM+Certified+AI%2FML+Engineer" alt="Typing SVG" /></a>
+<a href="https://github.com/Dineth9D"><img src="https://readme-typing-svg.demolab.com?font=Product+Sans&weight=500&size=30&duration=3000&pause=500&multiline=true&width=450&height=100&lines=Dineth+Jayasinghe;IBM+Certified+AI%2FML+Engineer" alt="Typing SVG" /></a>
 <a>
 
 </a>
