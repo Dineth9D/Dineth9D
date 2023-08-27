@@ -9,7 +9,7 @@
 <!-- <a href="">
     <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
 </a>   -->
-<a href="https://drive.google.com/file/d/1bhYPU1-GchnbuViXWXXl0FPddbf0rKTo/view?usp=share_link">
+<a href="https://drive.google.com/file/d/1hQtclG1BIYF7mo-KGG2G8QAv40pXI51n/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/dineth9d/">
